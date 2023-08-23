@@ -47,6 +47,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ugursaatci/ugursaatci/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/ugursaatci/snake_game">
+  <img src="https://raw.githubusercontent.com/ugursaatci/ugursaatci/output/snake.svg" alt="Snake animation" />
+</a>
+
 
 ###
