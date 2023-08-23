@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uğur and I'm a Student of Computer Science, from Eskişehir Technical University</h2>
+<h2 align="left">Hi 👋! My name is Uğur and I'm a Computer Science student at Eskişehir Technical University</h2>
 
 ###
 
