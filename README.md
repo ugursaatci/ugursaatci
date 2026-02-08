@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Uğur and I'm a Junior Software Architect</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugursaatci&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugursaatci&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ugursaatci&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ugursaatci&layout=compact&theme=dracula" />
 </div>
+
 
 ---
 
